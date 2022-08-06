@@ -15,6 +15,6 @@ app
 
 
 app.listen(port, () => {
-  console.log(`Running on port ${port} from the index file`)
+  console.log(`Running on port ${port} from the server file`)
 
 });
